@@ -23,3 +23,12 @@
 .al{
   margin: 0 auto;
 }
+
+.dis{
+  display: inline;
+}
+
+.pad{
+  padding: 10px;
+  margin: 10px;
+}
