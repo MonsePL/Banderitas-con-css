@@ -9,6 +9,17 @@
 
 }
 
-.ancho {
+.alto {
   height: 50px;
+}
+
+.ancho {
+  height: 60px;
+  width: 155px;
+
+}
+
+
+.al{
+  margin: 0 auto;
 }
