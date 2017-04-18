@@ -1,5 +1,5 @@
 .amarillo {
-  background-color: yellow;
+  background-color: gray;
 
 }
 
@@ -9,16 +9,19 @@
 
 }
 
-.alto {
-  height: 50px;
-}
+
 
 .ancho {
-  height: 60px;
-  width: 155px;
+  height: 73px;
+  width: 73px;
 
 }
 
+.anchouniq {
+  height: 120px;
+  width: 380px;
+
+}
 
 .al{
   margin: 0 auto;
@@ -28,7 +31,19 @@
   display: inline-block;
 }
 
+
+.dispi{
+  display: inline;
+}
+
 .pad{
   padding: 10px;
   margin: 10px;
+}
+
+
+.borde {
+  border-width:  20px 10px;
+  border-color: purple;
+  border-style: solid;
 }
